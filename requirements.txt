@@ -1,0 +1,6 @@
+flask==3.0.3
+werkzeug==3.0.6
+supabase==2.31.0
+pydantic==2.11.9
+python-dotenv==1.0.1
+requests==2.32.3

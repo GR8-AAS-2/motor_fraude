@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+.env
+.env.local
+.vercel
+venv/
+.venv/
+*.egg-info/
+.pytest_cache/
+
+.vercel
+.env*
+
+# Plantilla de variables (sin secretos): sí se versiona
+!.env.example
+
+# Local
+.tmp_test/
