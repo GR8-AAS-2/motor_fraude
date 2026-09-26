@@ -1,4 +1,4 @@
-"""Autenticación simple por API key, propia de este servicio."""
+"""Autenticación simple usando API key, propia de este servicio."""
 
 import hmac
 import os

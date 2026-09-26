@@ -1,4 +1,4 @@
-"""Endpoints del motor de fraude."""
+"""Endpoints del servicio de motor de fraude."""
 
 import hmac
 import json

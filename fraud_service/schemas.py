@@ -7,7 +7,7 @@ from pydantic import BaseModel, Field
 
 
 class DatosPoliza(BaseModel):
-    """Los 8 campos que identifican y describen una póliza para efectos de
+    """Los 8 campos de la polica que identifican y describen una póliza para efectos de
     cálculo de hash (registro y validación)."""
 
     numero_poliza: str = Field(..., min_length=1, max_length=100)

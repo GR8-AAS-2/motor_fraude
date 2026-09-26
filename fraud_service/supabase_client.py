@@ -1,4 +1,4 @@
-"""Cliente Supabase compartido por este servicio (misma cuenta/proyecto que
+"""Cliente Supabase compartido por este servicio (misma cuenta/proyecto 
 poliza_seguridad, pero tabla propia)."""
 
 import os

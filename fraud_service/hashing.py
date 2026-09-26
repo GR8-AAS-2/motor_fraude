@@ -1,6 +1,6 @@
 """Cálculo determinístico del hash de integridad de una póliza.
 
-El hash se calcula sobre 8 campos, normalizando su representación para que
+El hash se calcula sobre 8 campos clave, normalizando su representación para que
 el mismo dato produzca siempre el mismo hash sin importar si viene de una
 petición HTTP directa (con tipos Python/Pydantic) o de un `detalle` JSON
 recuperado de un log de auditoría (con tipos JSON crudos).

@@ -1,4 +1,4 @@
-"""Punto de entrada WSGI para el runtime Python de Vercel."""
+"""Punto de entrada WSGI para el runtime Python de Vercel ."""
 
 import sys
 from pathlib import Path

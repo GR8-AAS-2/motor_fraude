@@ -1,3 +1,4 @@
+""" Archivo de requerimientos para el motor de fraude. """
 flask==3.0.3
 werkzeug==3.0.6
 supabase==2.31.0

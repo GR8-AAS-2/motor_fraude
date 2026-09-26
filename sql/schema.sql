@@ -1,7 +1,7 @@
 -- Tabla propia del motor de fraude: guarda el hash de los datos de cada
 -- póliza registrada. Vive en el mismo proyecto Supabase que poliza_seguridad,
 -- pero es una tabla independiente (no se mezcla con audit_logs).
--- Ejecutar en el SQL Editor de Supabase.
+-- Para Ejecutar en el SQL Editor de Supabase.
 
 create extension if not exists "pgcrypto";
 

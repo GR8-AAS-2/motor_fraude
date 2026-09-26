@@ -1,3 +1,4 @@
+""" para pruebas unitarias de la API REST del motor de fraude. """
 import os
 import sys
 from pathlib import Path

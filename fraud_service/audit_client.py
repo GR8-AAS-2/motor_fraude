@@ -1,6 +1,6 @@
 """Cliente HTTP hacia el servicio de auditoría `poliza_seguridad`, usado
 como fallback para recuperar/confirmar los datos originales de una póliza
-cuando el hash almacenado localmente no coincide con lo recibido."""
+cuando el hash almacenado localmente no coincide con lo recibido o calculado."""
 
 import os
 from typing import Any, Optional

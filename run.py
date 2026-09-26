@@ -1,4 +1,4 @@
-"""Servidor de desarrollo local (no se usa en Vercel).
+"""Servidor de desarrollo para local (no se usa en Vercel).
 
 Uso:
     python run.py

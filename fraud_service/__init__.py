@@ -1,3 +1,5 @@
+""" """
+
 from flask import Flask, jsonify
 
 from .routes import bp
